@@ -1,4 +1,11 @@
 # Scrapyard Bangkok
 
 ## What is it?
-VaporMIC is an application that allows users to record audio and see like frequency graphs of their audio source simultaneously. However, in order to be useless, this software’s start button is used to stop recording and stop button is used to start recording. Additionally, though the frequency bar displays live feedback, when you finish, you realize that no recording has been saved. Lastly, the chat box powered by AI is meant to help users however upon questions, the AI replies with random emojis, making it useless and pointless.
+VaporMIC. An application that allows users to record audio and talk to a chatbot for ideas.
+
+A twist though, the audio doesn’t save and the chatbot talks to you in symbols. The start is stop and stop is start. There is a bar that displays the sound frequencies too.
+
+We used typescript, javascript, react, html and CSS.
+
+Video: https://youtu.be/3QR3Ejd6eIg
+
